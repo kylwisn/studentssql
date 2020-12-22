@@ -1,13 +1,13 @@
 /* highest_student_gpa */
-"SELECT MAX(students.gpa) FROM students;"
+SELECT MAX(students.gpa) FROM students;
 
 
 /* lowest_student_gpa */
-"SELECT MIN(students.gpa) FROM students;"
+SELECT MIN(students.gpa) FROM students;
 
 
 /* average_student_gpa */
-"SELECT AVG(students.gpa) FROM students;"
+SELECT AVG(students.gpa) FROM students;
 
 
 /*  total_tardies_for_all_students */
